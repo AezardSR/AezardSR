@@ -16,7 +16,7 @@ I am a student working as an application designer and developer
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electronjs-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB)
 
 ### Back
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
