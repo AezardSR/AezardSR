@@ -32,7 +32,7 @@ I am a student working as an application designer and developer
 ![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electronjs-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB)
 ![Wordpress](https://img.shields.io/badge/wordpress-0078D6?style=for-the-badge&logo=wordpress&logoColor=white)
-![Django](![Wordpress](https://img.shields.io/badge/django-0078D6?style=for-the-badge&logo=django&logoColor=white))
+![Django](https://img.shields.io/badge/django-0078D6?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
