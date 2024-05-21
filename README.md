@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am a student working as an application designer and developer
+I am an application designer and developer
 
 ## Technologies
 
